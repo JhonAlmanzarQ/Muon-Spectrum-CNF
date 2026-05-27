@@ -25,15 +25,11 @@ The notebook `00_preprocessing.ipynb` generates two main outputs in this folder.
 
 This file contains a summary of the estimated muon flux for each simulated site.
 
-It is generated from the processed simulation files and includes the information required to analyze the dependence of the muon flux on the altitude of each site.
-
-The expected content includes site identifiers, altitude values, event counts, and estimated flux values.
+It is generated from the processed simulation files and includes the information required to analyze the dependence of the muon flux on the altitude of each site. The expected content includes site identifiers, altitude values, event counts, and estimated flux values.
 
 ### `muon_flux_vs_height.png`
 
-This figure shows the relationship between the estimated muon flux and the altitude of the simulated sites.
-
-The plot includes a Poisson-based exponential fit used to describe the altitude dependence of the muon flux.
+This figure shows the relationship between the estimated muon flux and the altitude of the simulated sites. The plot includes a Poisson-based exponential fit used to describe the altitude dependence of the muon flux.
 
 ## Notebook result folders
 
