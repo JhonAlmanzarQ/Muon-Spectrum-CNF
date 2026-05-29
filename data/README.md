@@ -46,7 +46,7 @@ data/processed/
 
 ## Sites file: `lago_sites_from_jsonld.csv`
 
-The `lago_sites_from_jsonld.csv` file must be added and contains the geographic and geomagnetic information of the sites used in the simulations.
+The `lago_sites_from_jsonld.csv` file includes the sites used in this project; however, it can be replaced with another file with the same structure when using new simulation sites.
 
 File columns:
 
