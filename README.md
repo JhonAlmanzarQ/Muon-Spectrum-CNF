@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 Muons are secondary particles produced when cosmic rays interact with the Earth's atmosphere. Their distribution at ground level depends on the geophysical conditions of the site. The study of this component is relevant in applications such as muography, where muons are used to explore dense structures.
 
