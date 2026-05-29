@@ -37,21 +37,14 @@ The notebooks `01_random-search-final.ipynb`, `02_robustness-validation-final.ip
 
 These folders are also compressed as `.zip` files to make the outputs easier to download, archive, or share.
 
-The generated result folders are:
+The generated results and their compressed versions are stored:
 
 ```text
-results/Random_search/
-results/Robustness_validation/
-results/Model_Final/
+results/Random_search
+results/Robustness_validation
+results/Model_Final
 ```
 
-and their compressed versions are:
-
-```text
-results/Random_search.zip
-results/Robustness_validation.zip
-results/Model_Final.zip
-```
 
 Depending on the notebook, these folders may include:
 
