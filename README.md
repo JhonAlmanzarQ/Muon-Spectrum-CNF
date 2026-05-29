@@ -46,13 +46,13 @@ This folder contains the raw simulations, the processed files, and the `lago_sit
 
 ## Notebooks
 
-The `notebooks/` folder contains the main project notebooks.
+The [`notebooks/`](notebooks/) folder contains the main project notebooks.
 
 These notebooks implement data preprocessing, hyperparameter search, robustness validation, and final model training.
 
 ## Source Code: `src/`
 
-The `src/` folder contains auxiliary functions used by the notebooks.
+The [`src/`](src/) folder contains auxiliary functions used by the notebooks.
 
 These functions help organize repetitive parts of the code, such as processing, plot generation, model evaluation, and result handling.
 
