@@ -98,7 +98,7 @@ The goal is to generate muon spectra conditioned on the geophysical characterist
 - The project was developed mainly using Python notebooks. The use of a GPU is recommended for model training.
 - It is recommended to adjust the paths inside the notebooks according to the execution environment used.
 - To train and evaluate only the final model, the processed data must first be generated with `00_preprocessing.ipynb`, followed by the execution of `03_model-final.ipynb`.
-- For a more interactive exploration of the results, the project web platform can be accessed at: https://muon-generator.vercel.app/simulador
+- For a more interactive exploration of the results, the project web platform can be accessed at: https://muon-generator.vercel.app
 
 ## Main Authors
 
